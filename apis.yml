@@ -32,6 +32,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://www.eeye.com/', status: 302, note: 'declared website redirects to https://www.beyondtrust.com/ — a different registrable domain (eeye.com -> beyondtrust.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/eeye-digital.png
 x-type: company
 x-source: vc-portfolio
